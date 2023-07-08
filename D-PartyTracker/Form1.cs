@@ -15,7 +15,7 @@ namespace D_PartyTracker
     {
         // private TextBox txt;
         // private Button lck;
-        int numPlayers = 0; // counter for the current number of players
+        int numPlayers = 0; // counter for the total number of players
         // int numLabels = 1; // counter for current number of label objects
         // int numTextBox = 1; // counter for current number of text box objects
         // int numBttn = 1; // counter for current number of button objects
