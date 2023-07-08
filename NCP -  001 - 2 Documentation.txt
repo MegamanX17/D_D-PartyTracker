@@ -1,0 +1,45 @@
+Project number: NCP - 001 - 2
+Project name: "D&D Party Tracker"
+Classification: Information
+
+Purpose: This windows forms application is meant to be used to take notes in regards to the tabletop board game D&D. 
+Due to the nature of D&D games, there is a lot to remember and notice on everyone's part. 
+This program will make sessions more enjoyable by being able to provide everyone with an 
+organized assessment of a player's current health points (hp) and what is available to be 
+accessed by the entire party (for instance if a key recently discovered by one of the members 
+could be used by all members at any point in time). Future versions of this program will be developed 
+in a "C sharp" environment, and will eventually be able to save a comprehensible file version of its 
+notes as well as load files containing previous notes. This version of the "D&D Party Tracker" is
+a refinement of previous versions (NCP - 001) and is intended to be a dymanically changing application.
+
+Current Goals:
+-Create a windows form that will show and handle all D&D notes. (Not Completed)
+-The application will only use a single form/window. (So far so good) [This goal has been abandoned and the application will close down current forms/windows and use new ones]
+-Create "C sharp" code that is able to create a file containing the program's D&D notes. (Not Completed)
+
+Log:
+
+1/20/2023
+-Development of the dymanically changing "D&D Party Tracker" has begun.
+-Party Tracker is able to save the current number of players.
+-The program is able to clear the current window form after clicking on the "Enter" button.
+-Party Tracker is able to be closed down by clicking on the "Close" button.
+
+1/27/2023
+-After clicking on "Enter" the current program is able to create a new empty text box.
+-(Bug) The program is able to create both an empty text box and a label, these elements 
+sometimes overlap each other.
+
+1/29/2023
+-(Bug fix) The program is able to correctly create both an empty text box and a label without
+either elements overlapping each other.
+-The second part of this program is now able to dynamically create a prompt to accept each player's name.
+-The program is now able to create a button that will "lock" an entered name to avoid that
+name being changed on accident.
+-(Bug) The dynamically created "Lock" buttons are unable to lock their respective text boxes.
+-(Developer's note) I need to figure out a way to save each player's name as they're entered.
+
+7/8/2023
+-The Development of the "D&D Party Tracker" will be continued as of 3:04 AM 7/8/2023.
+-(Developer's note) Due to recent developments in my personal life, and technical complications encountered by this project, the progress of this project had been halted.
+-(Developer's note) The decision has been made to simplify this project by removing its ability to delete, create, and manipulate current windows elements.

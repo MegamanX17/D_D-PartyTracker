@@ -1,0 +1,11 @@
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\bin\Debug\D-PartyTracker.exe.config
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\bin\Debug\D-PartyTracker.exe
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\bin\Debug\D-PartyTracker.pdb
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.csproj.AssemblyReference.cache
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D_PartyTracker.Form1.resources
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D_PartyTracker.Properties.Resources.resources
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.csproj.GenerateResource.cache
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.csproj.CoreCompileInputs.cache
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.exe
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.pdb
