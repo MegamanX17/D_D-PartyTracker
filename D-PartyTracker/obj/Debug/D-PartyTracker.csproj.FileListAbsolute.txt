@@ -9,3 +9,4 @@ C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-Part
 C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.csproj.CoreCompileInputs.cache
 C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.exe
 C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D-PartyTracker.pdb
+C:\Users\norla\Desktop\Project NCP\NCP - 001 - 2\D-PartyTracker\obj\Debug\D_PartyTracker.Form2.resources

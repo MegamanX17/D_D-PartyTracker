@@ -39,7 +39,10 @@ namespace D_PartyTracker
             // Stores the current number of players entered in the numericUpDown
             numPlayers = Convert.ToInt32(numericUpDown1.Value);
 
-
+            Hide();
+            Form f2 = new Form2(numPlayers);
+            f2.ShowDialog();
+            Close();
 
 
 
