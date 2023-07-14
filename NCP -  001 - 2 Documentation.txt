@@ -43,3 +43,4 @@ name being changed on accident.
 -The Development of the "D&D Party Tracker" will be continued as of 3:04 AM 7/8/2023.
 -(Developer's note) Due to recent developments in my personal life, and technical complications encountered by this project, the progress of this project had been halted.
 -(Developer's note) The decision has been made to simplify this project by removing its ability to delete, create, and manipulate current windows elements.
+-Documentation and development of this project will be switched over to GitHub.
