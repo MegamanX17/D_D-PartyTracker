@@ -15,6 +15,7 @@ namespace D_PartyTracker
         int numPlayers = 0; // counter for the total number of players
         int currPlayer = 0; // counter for the current player
         bool containsInt = false; // boolean that checks for a string containing a number
+        List<string> playerData = new List<string>(); // collection of all player data
         public Form2(int numPlayers)
         {
             this.numPlayers = numPlayers; // saves the number of players passed by Form 1
@@ -44,7 +45,8 @@ namespace D_PartyTracker
             else if (currPlayer < numPlayers && !(PlayerContent.Text).Equals("") 
                 && (containsInt == true))
             {
-                PlayerList.Text += PlayerContent.Text + "\n"; // passes a name to the richtextbox list
+                PlayerList.Text += PlayerContent.Text + "\n"; // passes a name and number to the richtextbox list
+                playerData.Add(PlayerContent.Text); // adds a name and number to a list
                 PlayerContent.Text = ""; // empties the textbox being used to write names
                 currPlayer++; // increments current player being looked at
             }
@@ -61,6 +63,11 @@ namespace D_PartyTracker
             {
                 PlayerInfo.Text = "Please type player #" + (currPlayer + 1) + "'s name " +
                 "\nand max HP below (Ex: Roger, 25)"; // updates what is said on the form
+            }
+
+            if (currPlayer == numPlayers)
+            {
+                DoneBttn.Enabled = true; // lets the user click on the "done" button
             }
 
         }

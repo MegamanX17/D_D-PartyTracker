@@ -108,6 +108,7 @@
             // 
             // DoneBttn
             // 
+            this.DoneBttn.Enabled = false;
             this.DoneBttn.Location = new System.Drawing.Point(3, 3);
             this.DoneBttn.Name = "DoneBttn";
             this.DoneBttn.Size = new System.Drawing.Size(237, 155);
