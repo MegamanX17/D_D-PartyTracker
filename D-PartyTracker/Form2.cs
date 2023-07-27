@@ -76,5 +76,13 @@ namespace D_PartyTracker
         {
             Application.Exit(); // closes the entire program
         }
+
+        private void DoneBttn_Click(object sender, EventArgs e)
+        {
+            Hide();
+            Form f3 = new Form3(playerData);
+            f3.ShowDialog();
+            Close();
+        }
     }
 }

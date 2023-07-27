@@ -115,6 +115,7 @@
             this.DoneBttn.TabIndex = 0;
             this.DoneBttn.Text = "Done";
             this.DoneBttn.UseVisualStyleBackColor = true;
+            this.DoneBttn.Click += new System.EventHandler(this.DoneBttn_Click);
             // 
             // CloseBttn
             // 

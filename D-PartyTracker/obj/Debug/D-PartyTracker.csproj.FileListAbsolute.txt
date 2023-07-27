@@ -22,3 +22,4 @@ C:\Users\norla\Desktop\D_D-PartyTracker\D-PartyTracker\obj\Debug\D-PartyTracker.
 C:\Users\norla\Desktop\D_D-PartyTracker\D-PartyTracker\obj\Debug\D-PartyTracker.csproj.CoreCompileInputs.cache
 C:\Users\norla\Desktop\D_D-PartyTracker\D-PartyTracker\obj\Debug\D-PartyTracker.exe
 C:\Users\norla\Desktop\D_D-PartyTracker\D-PartyTracker\obj\Debug\D-PartyTracker.pdb
+C:\Users\norla\Desktop\D_D-PartyTracker\D-PartyTracker\obj\Debug\D_PartyTracker.Form3.resources
